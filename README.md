@@ -1,4 +1,4 @@
-**Sistema Inteligente para Predição de Falhas em Máquinas Agrícolas por meio de Dados de Sensores**
+# Sistema Inteligente para Predição de Falhas em Máquinas Agrícolas por meio de Dados de Sensores
 
 
 ## Descrição Inicial do Problema Escolhido
